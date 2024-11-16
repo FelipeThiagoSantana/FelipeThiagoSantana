@@ -32,7 +32,8 @@ Feel free to reach out!
  <br>
  - Let’s build something amazing together! 🚀
 </div>
-### ⚡ GitHub Stats
+<br>
+### GitHub Stats
 <br>
 <br>
 <div>
