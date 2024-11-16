@@ -33,9 +33,7 @@ Feel free to reach out!
  - Let’s build something amazing together! 
 </div>
 <br>
-<br>
 <div>
- 
  ### 🚀 GitHub Stats
  
   <a href="https://github.com/FelipeThiagoSantana">
