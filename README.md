@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with over two years of 
 - Other Expertise: API Integration, Database Management and Linux servers
 ### 🚀 Current Projects
  Mobile Apps:
+- Currently part of the mobile development team, maintaining and creating new features for the PureM app, which supports the registration of Girolando cattle. The app works offline, enabling technicians to operate in remote farms without internet access.
 - Enhancing user experiences with scalable, efficient Android apps.
 - Experimenting with scoped storage and image processing libraries.
 ### 🌱 Learning Goals
