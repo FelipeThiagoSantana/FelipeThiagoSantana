@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with over two years of 
 - Backend Development: PHP 
 - Frontend Development: HTML, CSS, JavaScript
 - Mobile Development: Android (Java, Kotlin), SQLite
-- Tools & Frameworks: Laravel, Codeigniter,Bootstrap, Tailwind, WordPress, Material Design, ButterKnife,
+- Tools & Frameworks: Laravel, Codeigniter, Bootstrap, Tailwind, WordPress, Material Design, ButterKnife,
 - Version Control: Git, GitHub, GitLab
 - Other Expertise: API Integration, Database Management and Linux servers
 ### 🚀 Current Projects
