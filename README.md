@@ -34,7 +34,7 @@ Feel free to reach out!
  <br>
 </div>
 
-## 🚀 GitHub Stats 
+## 🎯 GitHub Stats 
 <div>
  <br>
   <a href="https://github.com/FelipeThiagoSantana">
