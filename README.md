@@ -3,11 +3,11 @@
 Welcome to my GitHub profile! I'm a Full Stack Developer with over two years of experience in building robust, user-friendly applications. Based in Uberaba, Brazil, I'm passionate about creating efficient solutions that bridge the gap between functionality and design.
 
 ### 🛠️ My Skillset
-- Backend Development: PHP Laravel, Codeigniter
+- Backend Development: PHP 
 - Frontend Development: HTML, CSS, JavaScript
 - Mobile Development: Android (Java, Kotlin), SQLite
-- Tools & Frameworks: Material Design, ButterKnife
-- Version Control: Git, GitHub
+- Tools & Frameworks: Laravel, Codeigniter, WordPress, Material Design, ButterKnife,
+- Version Control: Git, GitHub, GitLab
 - Other Expertise: API Integration, Database Management and Linux servers
 ### 🚀 Current Projects
  Mobile Apps:
