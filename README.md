@@ -42,5 +42,14 @@ Feel free to reach out!
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeThiagoSantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+<br>
+## Programming Languages
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#) 
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
+
 
 
