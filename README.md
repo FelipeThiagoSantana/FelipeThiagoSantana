@@ -39,7 +39,7 @@ Feel free to reach out!
  <br>
   <source
   <a href="https://github.com/FelipeThiagoSantana">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020/?username=FelipeThiagoSantana&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeThiagoSantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeThiagoSantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
