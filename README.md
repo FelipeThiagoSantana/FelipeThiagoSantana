@@ -37,6 +37,11 @@ Feel free to reach out!
 ## 🎯 GitHub Stats 
 <div>
  <br>
+   <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
   <a href="https://github.com/FelipeThiagoSantana">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeThiagoSantana&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeThiagoSantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
